@@ -1,0 +1,15 @@
+<svg display="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol viewBox="0 0 50 48" fill="none" id="arrow-right">
+        <path d="M20 36L32 24L20 12" stroke="#E7D283" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z" stroke="#E7D283" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol viewBox="0 0 50 48" fill="none" id="arrow-left">
+        <path d="M30 36L18 24L30 12" stroke="#E7D283" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M25 44C36.0457 44 45 35.0457 45 24C45 12.9543 36.0457 4 25 4C13.9543 4 5 12.9543 5 24C5 35.0457 13.9543 44 25 44Z" stroke="#E7D283" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol viewBox="0 0 70 20" fill="none" id="slider">
+            <circle cx="10" cy="10" r="10" fill="#E7D283"/>
+            <circle cx="36.5" cy="9.5" r="8" stroke="#E7D283"/>
+            <circle cx="61.5" cy="9.5" r="8" stroke="#E7D283"/>
+    </symbol>
+</svg>
