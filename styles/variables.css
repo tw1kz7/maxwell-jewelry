@@ -1,3 +1,7 @@
 :root {
-
+    --font-color-main: #E7D283;
+    --bcg-color: #ffffff;
+    --font-color-hover: #AA9A5E;
 }
+
+/* @media breakpoints: 992px, 768px, 576px, 480px*/
