@@ -2,21 +2,25 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "Narita Monospace";
+    src: url('fonts/Narita-Monospace.otf') format("otf");
+    font-weight: normal;
+    font-style: normal;
+}
 body {
     margin: 0;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Narita Monospace", monospace;
     background-color: var(--bcg-color);
 }
 
 h1 {
-    font-family: "Playwrite VN Guides", cursive;
-    font-weight: 400;
+    font-family: "Major Mono Display", monospace;
+    font-size: 64px;
     font-style: normal;
-    margin-top: 17px;
-    margin-left: 47px;
-    margin-bottom: 18px;
-    color: var(--font-color-main);
-    flex-shrink: 0;
+    font-weight: 400;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 ul{
@@ -30,8 +34,6 @@ a{
     color: unset;
 }
 
-.container {
-    max-width: 1440px;
-    padding: 0 10px;
-    margin: 0 auto;
+.container{
+    max-width: 1920px;
 }
