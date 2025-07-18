@@ -46,3 +46,13 @@
 .header__nav-link:hover{
     color: var(--font-color-hover);
 }
+
+.collection-label{
+    position: absolute;
+}
+
+.collection-label p{
+    color: var(--bcg-color);
+    font-size: 96px;
+    margin: 817px 743px 107px;
+}
