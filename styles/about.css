@@ -1,0 +1,63 @@
+.about-us__title-container{
+    margin-top: 94px;
+    display: inline-block;
+    text-align: left;
+}
+
+.line {
+    font-size: 48px;
+    margin: 0;
+}
+
+.about-us{
+    text-align: center;
+}
+
+.workshop-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.workshop-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.workshop-photo__description {
+    text-align: left;
+    margin-top: 27px;
+    margin-left: 192px;
+    margin-right: 192px;
+}
+
+.workshop-photo {
+    margin-top: 53px;
+}
+
+.description {
+    font-size: 20px;
+    margin: 0;
+}
+
+.story-title {
+    align-items: center;
+    margin-top: 64px;
+    font-size: 48px;
+}
+
+.story-description {
+    font-size: 20px;
+    text-align: left;
+    margin-top: 41px;
+    margin-left: 192px;
+    margin-right: 192px;
+}
+
+.story-line {
+    margin: 0;
+}
+
+.story-image {
+    margin-top: 64px;
+}

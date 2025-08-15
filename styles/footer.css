@@ -1,0 +1,32 @@
+.footer {
+    margin-top: 178px;
+    background-color: var(--font-color-main);
+    width: 1920px;
+    height: 690px;
+    display: flex;
+}
+
+.footer-text {
+    margin-left: 30px;
+    margin-top: 47px;
+    color: var(--bcg-color);
+    font-size: 20px;
+}
+
+.footer__title{
+    margin: 0;
+}
+.footer__credits {
+    margin-top: 0;
+}
+
+.lorem_text {
+    color: var(--bcg-color);
+    font-size: 20px;
+    display: block;
+    text-align: left;
+    margin-top: 62px;
+    margin-right: 21px;
+    margin-bottom: 61px;
+    margin-left: 57px;
+}
